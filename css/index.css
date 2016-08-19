@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+p {
+	text-align: center;
+	font-weight: bold;
+}
+
+p#succ {
+	color: #00aa00;
+}
+
+p#err {
+	color: #ee0000;
+}
+
+box {
+	width: 800px;
+}
+
+.wrapper1 {
+	width: 25%;
+	margin-left: 3%;
+	display: inline-block;
+}
